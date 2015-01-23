@@ -1,7 +1,6 @@
 #splash{position:relative;height:400px;overflow:hidden;}
 #splash img{position:absolute;left:-100%;top:-100%;right:-100%;bottom:-100%;margin:auto;min-width:600px;}
 #splash > section{display:none; height:400px;}
-#splash > section:first-child{display:block;}
 #splash div{position:relative;z-index:2;}
 #splash_nav{width:100%;position:relative;float:left;text-align:center;min-height:18px;margin:10px 0 0;}
 #splash_nav ul{margin:0;}
